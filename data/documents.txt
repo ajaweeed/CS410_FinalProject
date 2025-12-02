@@ -1,0 +1,24 @@
+Machine learning is a subset of artificial intelligence that focuses on algorithms and statistical models.
+Natural language processing enables computers to understand and process human language.
+Information retrieval systems help users find relevant documents from large collections.
+Deep learning uses neural networks with multiple layers to learn complex patterns.
+Search engines index web pages and rank them based on relevance to user queries.
+Text mining extracts useful information from unstructured text data.
+Topic modeling discovers hidden topics in document collections.
+Query expansion improves search results by adding related terms to queries.
+Ranking algorithms determine the order of search results.
+Semantic search understands the meaning of queries beyond keyword matching.
+Data science combines statistics, programming, and domain expertise.
+Vector spaces represent documents and queries as numerical vectors.
+Term frequency measures how often a word appears in a document.
+Inverse document frequency measures how rare a word is across documents.
+TF-IDF combines term frequency and inverse document frequency for weighting.
+BM25 is a ranking function used in information retrieval systems.
+Latent Dirichlet Allocation is a topic modeling technique.
+K-means clustering groups similar documents together.
+Word embeddings represent words as dense vectors in continuous space.
+GloVe is an algorithm for learning word embeddings from global statistics.
+
+
+
+
